@@ -1,0 +1,28 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="9.11.1" last-modified="1522874998000" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>dfc8df9bdf9edf99dfcfdfcbdf9adf9edf99df9cdf9bdf9ddf98df9bdfc8df93df92df99df9fdf9bdf9ddfc8df9edf98df99dfccdf9cdf99dfc9df99df93df99dfc8dfcedf9edfcbdf99df92dfc9df9c</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="php-fusion" />
+      <option name="repoName" value="PHP-Fusion" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>
