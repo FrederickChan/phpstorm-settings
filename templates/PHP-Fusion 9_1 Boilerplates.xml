@@ -1,0 +1,34 @@
+<templateSet group="PHP-Fusion 9.1 Boilerplates">
+  <template name=".col" value="{[col($100$,$100$,$100$,$100$)]}" shortcut="TAB" description="css: Column Class" toReformat="true" toShortenFQNames="true">
+    <variable name="100" expression="" defaultValue="100" alwaysStopAt="false" />
+    <context>
+      <option name="CSS" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name=".row" value="{[row]}" shortcut="TAB" description="css: Row Class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name=".container" value="{[container]}" shortcut="TAB" description="css: Container" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="/tag" value="{%$tag$%}" shortcut="TAB" description="item: Replaces a Tag" toReformat="false" toShortenFQNames="true">
+    <variable name="tag" expression="" defaultValue="tag" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="/block" value="{$block_name$.{&#10;    $content$&#10;}}" description="item: Generates a default block" toReformat="false" toShortenFQNames="true">
+    <variable name="block_name" expression="" defaultValue="block" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="content" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
