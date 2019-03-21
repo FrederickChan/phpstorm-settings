@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/RobiNN1/PF-Wiki.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://www.github.com/php-fusion/php-fusion" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\laragon\www" />
