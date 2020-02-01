@@ -3,43 +3,20 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/php-fusion/PHP-Fusion.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com/" />
-          <option name="userName" value="meangczac.chan@gmail.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/FrederickChan/Font-Awesome.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/php-fusion/PHP-Fusion-9-Locale.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="http://github.com" />
           <option name="userName" value="meangczac.chan@gmail.com" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Phpfusion-me/PHP-Fusion-Main.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Phpfusion-me/php-fusion-uk.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/FrederickChan/official-uk.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/RobiNN1/PF-Wiki.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\laragon\www" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
   </component>
 </application>
