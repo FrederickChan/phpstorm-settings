@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Platform and Plugin Updates" displayType="NONE" shouldLog="false" />
-    <notification groupId="Plugin Error" shouldLog="false" />
-  </component>
-</application>
